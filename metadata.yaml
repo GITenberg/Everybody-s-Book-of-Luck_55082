@@ -1,5 +1,8 @@
 _repo: Everybody-s-Book-of-Luck_55082
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55082-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55082#Everybody-s-Book-of-Luck
 gutenberg_issued: '2017-07-10'
 gutenberg_type: Text
 identifiers:
